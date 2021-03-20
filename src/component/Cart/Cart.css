@@ -1,0 +1,9 @@
+.card-img{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+ .card-board{
+     background-color: rgba(220, 235, 19, 0.267);
+     min-height: 200px;
+ }

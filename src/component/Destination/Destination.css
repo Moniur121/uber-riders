@@ -1,0 +1,42 @@
+.search-area{
+    box-shadow: 5px 5px 10px gray;
+    width: 400px;
+    height:600px;
+    text-align: justify;
+    padding: 20px;
+     margin-left: 50px;
+    margin-top: 50px;
+}
+.searchBtn{
+    width: 250px;
+    margin-top: 40px;
+    background-color: lightsalmon;
+    border-radius:20px;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    -ms-border-radius:20px;
+    -o-border-radius:20px;
+}
+.vehicle-nameArea{
+    height: 150px;
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    background-color: lightcoral;
+     
+}
+ 
+.pick-to{
+    margin-top: 50px;
+    border-left: 2px solid red;
+}
+.map-area{
+    background-image: url("../Destination/image/map.png");
+    background-size: cover;
+    height: 379px;
+    width: 820px;
+    padding-top: 20px;
+    margin-top: 52px;
+    margin-left: 45px;
+}
+ 

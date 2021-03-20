@@ -1,0 +1,22 @@
+.form-validationArea{
+    height: 400px;
+    width: 300px;
+    margin: 0 auto;
+    padding-top: 20px;
+    box-shadow: 5px 5px 10px gray;
+    margin-top: 50px;
+    /* border: 2px solid black; */
+
+}
+input{
+    border-left: none;
+    border-top: none;
+    border-right: none;
+}
+.logo-area{
+    padding-top: 30px;
+    border:none;
+    height:70px;
+    width:auto;
+     
+}
